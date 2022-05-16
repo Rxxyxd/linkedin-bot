@@ -1,0 +1,313 @@
+1652272969033	geckodriver	INFO	Listening on 127.0.0.1:33677
+1652273022946	geckodriver	INFO	Listening on 127.0.0.1:41651
+1652273022951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemhGEmw"
+Error: no DISPLAY environment variable specified
+1652273624184	geckodriver	INFO	Listening on 127.0.0.1:43763
+1652273624189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH262O2"
+Error: no DISPLAY environment variable specified
+1652273657011	geckodriver	INFO	Listening on 127.0.0.1:34693
+1652273657016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuMNcs4"
+Error: no DISPLAY environment variable specified
+1652273739512	geckodriver	INFO	Listening on 127.0.0.1:44567
+1652273739517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOp0wfi"
+Error: no DISPLAY environment variable specified
+1652273877862	geckodriver	INFO	Listening on 127.0.0.1:53399
+1652273877878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCc8V08"
+Error: no DISPLAY environment variable specified
+1652273959659	geckodriver	INFO	Listening on 127.0.0.1:48497
+1652273959664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyzMROP"
+Error: no DISPLAY environment variable specified
+1652274048309	geckodriver	INFO	Listening on 127.0.0.1:52915
+1652274048314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR9IDcd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652274048616	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR9IDcd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43209/devtools/browser/98c9cc2b-0649-49fe-abe9-822ce4c6afaf
+1652274050629	Marionette	INFO	Listening on port 39453
+Read port: 39453
+1652274050732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652274051693	Marionette	INFO	Stopped listening on port 39453
+1652276202302	geckodriver	INFO	Listening on 127.0.0.1:40293
+1652276202308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "48337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejwSnmi"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276202674	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejwSnmi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48337/devtools/browser/e0b82acb-ce25-42e8-8530-aece380e634f
+1652276204095	Marionette	INFO	Listening on port 36981
+Read port: 36981
+1652276204136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 6983: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 19308: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qv9vzp9josr73vv6l4iu3isj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6f380ii6gue4iuu77yxgci3c3, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c503fby5i6zjl6339afdvjlfj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3drl4rdsyfeihpdpocnclsr5n, line 6: unreachable code after return statement
+1652276210947	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/88k9zm45ozqrymrhwtlorcsy6, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5h129jcfs3ur48rk1m9yxqvon, line 6: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652276246903	geckodriver	INFO	Listening on 127.0.0.1:59201
+1652276246908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBI2LeI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276247183	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBI2LeI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40261/devtools/browser/70f0a8b2-e327-4fbd-ae42-d0571f722863
+1652276249125	Marionette	INFO	Listening on port 42281
+Read port: 42281
+1652276249254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 6983: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 19308: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qv9vzp9josr73vv6l4iu3isj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 19308: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6f380ii6gue4iuu77yxgci3c3, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c503fby5i6zjl6339afdvjlfj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3drl4rdsyfeihpdpocnclsr5n, line 6: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652276294939	geckodriver	INFO	Listening on 127.0.0.1:40651
+1652276294943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0khdq1"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276295210	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0khdq1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33519/devtools/browser/518cd637-8609-4d60-8c06-3a5d8571838b
+1652276297064	Marionette	INFO	Listening on port 44981
+Read port: 44981
+1652276297163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1652276323894	geckodriver	INFO	Listening on 127.0.0.1:48525
+1652276323898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerTEAQ8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276324164	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerTEAQ8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35185/devtools/browser/943b882d-d458-4b31-839f-bc78ca57d075
+1652276325944	Marionette	INFO	Listening on port 39505
+Read port: 39505
+1652276326029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 6983: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 19308: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qv9vzp9josr73vv6l4iu3isj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6f380ii6gue4iuu77yxgci3c3, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c503fby5i6zjl6339afdvjlfj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3drl4rdsyfeihpdpocnclsr5n, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/88k9zm45ozqrymrhwtlorcsy6, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5h129jcfs3ur48rk1m9yxqvon, line 6: unreachable code after return statement
+1652276341710	Marionette	INFO	Stopped listening on port 39505
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652276414112	geckodriver	INFO	Listening on 127.0.0.1:52299
+1652276414117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0bGTGR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276414380	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0bGTGR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46803/devtools/browser/21c299f7-d862-470c-bfb4-ec652a1011e0
+1652276416290	Marionette	INFO	Listening on port 40965
+Read port: 40965
+1652276416340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1652276638443	geckodriver	INFO	Listening on 127.0.0.1:50211
+1652276638449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejAF7lX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276638720	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejAF7lX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38929/devtools/browser/12ab8a23-4d4c-4b4d-b16d-0d7b8edfae62
+1652276640291	Marionette	INFO	Listening on port 46261
+Read port: 46261
+1652276640378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1652276687709	geckodriver	INFO	Listening on 127.0.0.1:44113
+1652276687714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZJHr24"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276688012	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZJHr24/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52769/devtools/browser/00d1278e-032a-4630-b709-db683e2d607e
+1652276689685	Marionette	INFO	Listening on port 38465
+Read port: 38465
+1652276689802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 6983: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 19308: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qv9vzp9josr73vv6l4iu3isj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6f380ii6gue4iuu77yxgci3c3, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c503fby5i6zjl6339afdvjlfj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3drl4rdsyfeihpdpocnclsr5n, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/88k9zm45ozqrymrhwtlorcsy6, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5h129jcfs3ur48rk1m9yxqvon, line 6: unreachable code after return statement
+1652276703746	Marionette	INFO	Stopped listening on port 38465
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652276746048	geckodriver	INFO	Listening on 127.0.0.1:44317
+1652276746062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuRwvvx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1652276746451	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuRwvvx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39103/devtools/browser/80e15bea-5fa2-4583-a81a-7d7b391baec2
+1652276748241	Marionette	INFO	Listening on port 33779
+Read port: 33779
+1652276748281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 6983: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1mjmza5cn2j8nmkvgnzeae2p4, line 19308: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qv9vzp9josr73vv6l4iu3isj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7agy7aslzy6yiyn72nfa2vftu, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/7h3bzgel9flc43l6gv9g13b4e, line 2522: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6f380ii6gue4iuu77yxgci3c3, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c503fby5i6zjl6339afdvjlfj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3drl4rdsyfeihpdpocnclsr5n, line 6: unreachable code after return statement
+1652276753417	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/88k9zm45ozqrymrhwtlorcsy6, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5h129jcfs3ur48rk1m9yxqvon, line 6: unreachable code after return statement
+1652276764937	Marionette	INFO	Stopped listening on port 33779
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
